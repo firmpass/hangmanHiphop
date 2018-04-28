@@ -1,0 +1,24 @@
+{
+  "name": "hangmanhiphop",
+  "version": "1.0.0",
+  "description": "Hip Hop Hangman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firmpass/hangmanHiphop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firmpass/hangmanHiphop/issues"
+  },
+  "homepage": "https://github.com/firmpass/hangmanHiphop#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^5.2.0",
+    "run-node": "^1.0.0"
+  }
+}
